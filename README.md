@@ -15,6 +15,6 @@
 
 ## Let's Connect!
 
-- [LinkedIn](link)
+- [LinkedIn](in/jaimin-viramgama)
 
 Feel free to explore my repositories and reach out for collaboration! 😊
